@@ -12,7 +12,7 @@
  <li>Í skjalinu <i> "github_verkefni-glosur.docx </i> er hægt að sjá vinnuferlið við að stofna þessa geymslu</li>
 </ol>
 
-##Námsmatattattatatat:
+##Námsmat:
 <ol>
 	<li>GIT spurningar (2%)<br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
