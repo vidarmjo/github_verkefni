@@ -2,32 +2,7 @@ body {
 	margin:0;
 }
 .sumar {
-	display: none;
-}
-
-.vetur {
-	display: none;
-}
-.haust h1 {
-	font-size: 5em;
-	color: #ffa;
-}
-.haust {
-	/*haust stílar hér*/
-	background: linear-gradient(to top left, blue, red); /* Standard syntax (must be last) */
-	position: fixed;
-	width: 100%;
-	height: 100%;
-  	margin: 0;
-  	padding: 0;
-  
-	display: flex; 
-	justify-content: center;
-	align-items: center;
-	align-content: center;
-}
-.vor {
-	/*haust stílar hér*/
+	/*sumar stílar hér*/
 	background: linear-gradient(to top left,  yellow, red); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
@@ -40,7 +15,17 @@ body {
 	align-items: center;
 	align-content: center;
 }
-.vor h1 {
+.sumar h1 {
 	font-size: 5em;
-	color: #99f;
+	color: #ffa;
 }
+.haust {
+	display: none;
+}
+.vor {
+	display: none;
+}
+.vetur {
+	display: none;
+}
+
