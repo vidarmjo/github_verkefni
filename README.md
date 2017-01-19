@@ -12,4 +12,4 @@
 ###Verkefnaskil: setjið tengil á GitHub reikning í 'Athugasemdir' í Innu  
 *	Á GitHub reikningi á að vera 
 	*	GIT verkefni (Þverfaglegt verkefni)
-	*	Github verkefni (VSH verkefni)
+	*	Github VSH2 verkefni
