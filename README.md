@@ -1,5 +1,5 @@
 
-#GitHub einstaklingsverkefni 
+#GitHub VSH2 verkefni 
 
 ##Námsmat:
 *	GitHub
