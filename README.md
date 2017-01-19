@@ -9,6 +9,7 @@
 
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
-*	Verkefnaskil á Innu, setjið tengla í 'Athugasemdir' á:  
-	*	Github reiningin þinn 
-	*	Hópverkefnið (master). 
+Verkefnaskil, setjið tengil á GIthub reikning í 'Athugasemdir' í Innu  
+*	Á GitHub reikning á að vera 
+	*	GIT verkefni (Þverfaglegt verkfni)
+	*	Github verkefni (VSH verkefni)
