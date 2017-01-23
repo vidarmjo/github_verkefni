@@ -13,3 +13,5 @@
 *	Á GitHub reikningi á að vera 
 	*	GIT verkefni (Þverfaglegt verkefni)
 	*	Github VSH2 verkefni
+
+####samstarf vsh22 + vsh24
